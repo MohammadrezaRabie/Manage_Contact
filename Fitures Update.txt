@@ -1,0 +1,2 @@
+In Version 0.1.0 Pagination and sorting Added.
+In Version 0.1.1 a bug in the Logout section was fixed.
